@@ -29,4 +29,16 @@ let dados = [
         link: "https://pt.wiki/Bruno_Fratus",
         tags: "natacao brasil recordista sul-americano velocidade piscina medalhista"
     }
+    ,
+    {
+        titulo: "Fãbio Martelo",
+        descricao: "Fãbio Martelo é um nadador brasileiro, recordista do TAF para a PM/AP. Conhecido por suas figurinhas, ele é um dos favoritos da chefia",
+        link: "https://www.instagram.com/fabio.martell/",
+        tags: "natacao corrida taf pm piscina fabio fábio martel alves"
+    },
+    {
+    titulo: "Miquéias",
+        descricao: "Andador no sol da Macapá. Conhecido por ser uma máquina de coletas, ele é um dos favoritos da chefia",
+        tags: "mequias miqueas miqueias sol andar correr favorito ezequiel zeca"
+    }
 ];
